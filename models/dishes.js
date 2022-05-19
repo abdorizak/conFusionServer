@@ -42,7 +42,7 @@ const dishSchema = new Schema({
         type: String,
         required: true
     },
-    lebel: {
+    label: {
         type: String,
         default: ''
     },
